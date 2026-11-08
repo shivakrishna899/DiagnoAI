@@ -1,0 +1,11 @@
+torch>=2.2
+torchvision>=0.17
+numpy>=1.26
+Pillow>=10.0
+pandas>=2.1
+scikit-learn>=1.4
+streamlit>=1.32
+fastapi>=0.110
+uvicorn[standard]>=0.27
+python-multipart>=0.0.9
+pytest>=8.0
